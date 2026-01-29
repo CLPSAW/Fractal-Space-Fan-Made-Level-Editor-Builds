@@ -1,3 +1,15 @@
+MESH MY BELOVED
+Created on August 15, 2025
+Noticeable features:
+- The first invisible mesh object [SWITCH]
+
+M3SH
+Created on November 12, 2025
+Noticeable features:
+- Invisible Mesh for EVERYTHING!
+- Objetive Triggers
+- Mysterious Slowdown Bug, which might be caused by objectives. Another instance of the bug seemed to be caused by waypoints instead.
+
 FRAKKED CHECKPOINT SYSTEM
 Created on July 9, 2025
 Noticeable features:
