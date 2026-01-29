@@ -7,7 +7,7 @@ VERSION 0.0.2
 Created on January 17, 2025
 Notable features:
 - 3 new objects [CYAN GROUND]; [RED GROUND]; [ORANGE GROUND]
-- Added provisional level light (Universal Cube)
+- Added provisional level light (Universal Cube) = Replaced by the Sun (Directional Light) on the following build
 
 VERSION 0.1.1 (Major)
 Created on February 6, 2025
@@ -59,13 +59,13 @@ MESH MY BELOVED
 Created on August 15, 2025
 Notable features:
 - The first invisible mesh object [SWITCH]
+- Smooth Object Preview Rotation
 
 M3SH
 Created on November 12, 2025
 Notable features:
 - Invisible Mesh for EVERYTHING!
-- Objective Triggers
-- Mysterious Slowdown Bug, which might be caused by objectives. Another instance of the bug seemed to be caused by waypoints instead.
+- Objective Triggers = May cause the mysterious slowdown bug. Another instance of the bug seemed to be caused by waypoints instead.
 
 SPIDER
 Created on January 24, 2026
