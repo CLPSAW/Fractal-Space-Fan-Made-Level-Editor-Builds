@@ -4,13 +4,13 @@ Notable features:
 - Only 4 objects [GROUND]; [LARGE GROUND]; [CYAN WALL]; [WINDOW]
 
 VERSION 0.0.2
-Created on January 13, 2025
+Created on January 17, 2025
 Notable features:
 - 3 new objects [CYAN GROUND]; [RED GROUND]; [ORANGE GROUND]
 - Added provisional level light (Universal Cube)
 
-VERSION 0.1.1
-Created on January 13, 2025
+VERSION 0.1.1 (Major)
+Created on February 6, 2025
 Notable features:
 - Playmode!
 - Undo with CTRL+Z
@@ -18,9 +18,36 @@ Notable features:
 - Decorations [DIRECTIONAL LIGHT]; [POINT LIGHT]
 - 5 new objects [HEALTH PACK]; [AMMO PACK]; [SAW]; [GREEN VENT]; [CYAN VENT]
 
-VERSION 0.2.0
+VERSION 0.1.2 (Minor)
+Created on February 21, 2025
+Notable features:
+- Object ID and other Bug Fixes
+
+VERSION 0.2.0 (Major)
 Created on June 1, 2025
 Notable features:
+- WWAYPOINTS!
+- Added EVENTS PANEL
+- 4 new objects [SWITCH]; [CUBE]; [LASER]; [PLAYER SPAWN]
+- Realtime ceiling lights
+- 2 Global Propeties = HAS TASER and HAS JETPACK
+- Zero-G and Invert Gravity player attributes via trigger!
+
+VERSION 0.2.1 (Major)
+Created on June 27, 2025
+Notable features:
+- Object attributes such as Position, Rotation and Scale
+- Ability to change the Skybox
+- 3 new objects [FLAME TRAP]; [INVISIBLE COLLIDER]; [END TRIGGER]
+- Several new options to existing objects
+
+VERSION 0.2.2 (Major)
+Created on July 20, 2025
+Notable features:
+- Object Collision toggle
+- 6 new objects [GRAY WALL] [PRESSURE PLATE]; [FRAGILE WINDOW]; [SCREEN]; [SMALL SCREEN]; [PLAYER TRIGGER]
+- Ability to deselect objects
+- Context Menu for Events
 
 MESH MY BELOVED
 Created on August 15, 2025
