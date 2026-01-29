@@ -58,7 +58,7 @@ M3SH
 Created on November 12, 2025
 Notable features:
 - Invisible Mesh for EVERYTHING!
-- Objetive Triggers
+- Objective Triggers
 - Mysterious Slowdown Bug, which might be caused by objectives. Another instance of the bug seemed to be caused by waypoints instead.
 
 FRAKKED CHECKPOINT SYSTEM
