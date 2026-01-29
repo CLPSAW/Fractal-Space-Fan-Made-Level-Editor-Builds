@@ -41,6 +41,12 @@ Notable features:
 - 3 new objects [FLAME TRAP]; [INVISIBLE COLLIDER]; [END TRIGGER]
 - Several new options to existing objects
 
+FRAKKED CHECKPOINT SYSTEM
+Created on July 9, 2025
+Notable features:
+- A broken checkpoint system that allows the player to instantly respawn at the beginning of the level,
+- but doesn't save object placements and keeps all previously used events already triggered.
+
 VERSION 0.2.2 (Major)
 Created on July 20, 2025
 Notable features:
@@ -60,12 +66,6 @@ Notable features:
 - Invisible Mesh for EVERYTHING!
 - Objective Triggers
 - Mysterious Slowdown Bug, which might be caused by objectives. Another instance of the bug seemed to be caused by waypoints instead.
-
-FRAKKED CHECKPOINT SYSTEM
-Created on July 9, 2025
-Notable features:
-- A broken checkpoint system that allows the player to instantly respawn at the beginning of the level,
-- but doesn't save object placements and keeps all previously used events already triggered.
 
 SPIDER
 Created on January 24, 2026
