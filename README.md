@@ -9,7 +9,7 @@ Notable features:
 - 3 new objects [CYAN GROUND]; [RED GROUND]; [ORANGE GROUND]
 - Added provisional level light (Universal Cube)
 
-VERSIONn 0.1.1
+VERSION 0.1.1
 Created on January 13, 2025
 Notable features:
 - Playmode!
@@ -21,7 +21,6 @@ Notable features:
 VERSION 0.2.0
 Created on June 1, 2025
 Notable features:
--
 
 MESH MY BELOVED
 Created on August 15, 2025
