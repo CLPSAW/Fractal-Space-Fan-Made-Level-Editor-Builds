@@ -45,7 +45,7 @@ FRAKKED CHECKPOINT SYSTEM
 Created on July 9, 2025
 Notable features:
 - A broken checkpoint system that allows the player to instantly respawn at the beginning of the level,
-- but doesn't save object placements and keeps all previously used events already triggered.
+  but doesn't save object placements and keeps all previously used events already triggered.
 
 VERSION 0.2.2 (Major)
 Created on July 20, 2025
